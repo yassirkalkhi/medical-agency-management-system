@@ -28,7 +28,9 @@ Run the project on a local server (XAMPP/LAMP).
 
 📸 Screenshots
 
+![Screenshot 2025-03-11 094348 - Copy](https://github.com/user-attachments/assets/3910f3dc-f353-472d-9636-c17390427783)
 
+![Screenshot 2025-03-11 094339](https://github.com/user-attachments/assets/46fb7d2f-5b24-430b-bd88-ebf0a85dc93d)
 
 
 ![Screenshot 2025-03-11 093628](https://github.com/user-attachments/assets/fa68100a-121a-42a4-9d43-48c3fb75cee4)
@@ -50,9 +52,7 @@ Run the project on a local server (XAMPP/LAMP).
 
 ![Screenshot 2025-03-11 094402](https://github.com/user-attachments/assets/7589d758-85cc-4b0d-9b71-3683a689630a)
 
-![Screenshot 2025-03-11 094348 - Copy](https://github.com/user-attachments/assets/3910f3dc-f353-472d-9636-c17390427783)
 
-![Screenshot 2025-03-11 094339](https://github.com/user-attachments/assets/46fb7d2f-5b24-430b-bd88-ebf0a85dc93d)
 
 ![Screenshot 2025-03-11 094327](https://github.com/user-attachments/assets/13f8fde4-99fd-495e-a005-667052b028a1)
 
