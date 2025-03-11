@@ -21,7 +21,7 @@ A web-based system for managing medical agency operations, including appointment
    ```
 ## ⚡ Import Database
    ```sh
-    Import database.sql into MySQL
+    Import cabinaet.sql into MySQL
    ```
 Configure the database connection in config.php.
 Run the project on a local server (XAMPP/LAMP).
