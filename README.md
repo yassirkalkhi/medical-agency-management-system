@@ -18,3 +18,16 @@ A web-based system for managing medical agency operations, including appointment
 1. Clone the repository:  
    ```sh
    git clone https://github.com/yassirkalkhi/medical-agency.git
+## ⚡ Import the database:
+sh
+Copy
+Edit
+Import database.sql into MySQL
+Configure the database connection in config.php.
+Run the project on a local server (XAMPP/LAMP).
+💡 Contribution
+Want to improve this project? Fork the repository, make changes, and submit a pull request! 🚀
+
+📜 License
+This project is licensed under the MIT License.
+
