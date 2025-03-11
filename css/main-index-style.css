@@ -1,0 +1,51 @@
+body{
+    background-image: linear-gradient(to right,#148F66 , #29A38F);
+}
+*{
+    font-family: Poppins;
+}
+.navbar-brand{
+    color: white;
+    font-weight: 600;
+}
+.nav-button{
+    width: 76px;
+    height: 39px;
+}
+.nav-button1:hover{
+ color:#29A38F ;
+}
+
+.form-control:focus{
+    border: 1px solid #29A38F  ;
+  
+}
+.subject-form{
+    width: 480px;
+    padding: 20px;
+}
+
+@media screen and (min-width: 991px) {
+    .itemtohide{
+        display: none;
+    }
+}
+@media screen and (max-width: 991px) {
+    .btntohide{
+        display: none;
+    }
+}
+.sidebar{
+    background: #29A38F;
+}
+.nav-link{
+    font-weight: 500;
+}
+.rounded:hover{
+    background: rgba(112, 112, 112, 0.144);
+}
+.dropdown-menu-log{
+    width: 700px;
+    height: 380px;
+
+}
