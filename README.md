@@ -5,39 +5,93 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Medical Agency System - README</title>
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Arial', sans-serif;
+        }
+
         body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
+            background-color: #f8f9fa;
             color: #333;
+            padding: 20px;
         }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #007bff;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #333;
+            border-left: 5px solid #007bff;
+            padding-left: 10px;
+            margin-top: 25px;
+        }
+
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+
         ul {
             list-style: none;
             padding: 0;
         }
+
         ul li {
-            background: #0084ff;
+            background: #007bff;
             color: white;
-            margin: 5px 0;
-            padding: 10px;
-            border-radius: 5px;
+            margin: 6px 0;
+            padding: 12px;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
         }
-        code {
-            background: #eee;
-            padding: 3px 5px;
-            border-radius: 5px;
+
+        ul li::before {
+            content: "✔";
+            margin-right: 10px;
+            font-weight: bold;
+        }
+
+        .code-box {
+            background: #222;
+            color: #fff;
+            padding: 12px;
+            border-radius: 6px;
+            font-family: monospace;
+            overflow-x: auto;
+            margin: 10px 0;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 14px;
+            color: #666;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px;
+            }
+
+            ul li {
+                font-size: 14px;
+            }
         }
     </style>
 </head>
@@ -45,15 +99,15 @@
 
     <div class="container">
         <h1>🏥 Medical Agency System</h1>
-        <p>A web-based system for managing medical agency operations, including appointments (rendez-vous), doctors, clients, medications, and prescription printing.</p>
+        <p>A web-based system for managing medical agency operations, including appointment scheduling, medication tracking, and prescription printing.</p>
 
         <h2>🚀 Features</h2>
         <ul>
-            <li>✅ Appointment Management – Schedule and manage patient appointments</li>
-            <li>✅ Doctor & Client Profiles – Maintain detailed records</li>
-            <li>✅ Medication Management – Track stock and orders</li>
-            <li>✅ Prescription Printing – Generate and print medical prescriptions</li>
-            <li>✅ Admin Dashboard – Manage system users, appointments, and medications</li>
+            <li>Appointment Management – Schedule and manage patient appointments</li>
+            <li>Doctor & Client Profiles – Maintain detailed medical records</li>
+            <li>Medication Management – Track inventory and orders</li>
+            <li>Prescription Printing – Generate and print prescriptions</li>
+            <li>Admin Dashboard – Manage users, appointments, and medications</li>
         </ul>
 
         <h2>🛠 Tech Stack</h2>
@@ -64,17 +118,28 @@
         </ul>
 
         <h2>⚡ Installation</h2>
-        <p>Follow these steps to set up the project:</p>
-        <pre><code>1. Clone the repository: git clone https://github.com/your-username/medical-agency.git</code></pre>
-        <pre><code>2. Import the database from database.sql into MySQL</code></pre>
-        <pre><code>3. Configure the database connection in config.php</code></pre>
-        <pre><code>4. Run the project on a local server (XAMPP/LAMP)</code></pre>
+        <div class="code-box">
+            1. Clone the repository: <br>
+            <code>git clone https://github.com/your-username/medical-agency.git</code>
+        </div>
+        <div class="code-box">
+            2. Import the database: <br>
+            <code>Import database.sql into MySQL</code>
+        </div>
+        <div class="code-box">
+            3. Configure the database connection in: <br>
+            <code>config.php</code>
+        </div>
+        <div class="code-box">
+            4. Run the project on a local server (XAMPP/LAMP)
+        </div>
 
         <h2>💡 Contribution</h2>
-        <p>Feel free to contribute! Fork the repository, make changes, and submit a pull request.</p>
+        <p>Want to improve this project? Fork the repository, make changes, and submit a pull request! 🚀</p>
 
-        <h2>📜 License</h2>
-        <p>This project is licensed under the MIT License.</p>
+        <footer>
+            📜 Licensed under MIT License | Created with ❤️ by [Your Name]
+        </footer>
     </div>
 
 </body>
