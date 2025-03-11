@@ -39,7 +39,9 @@ Run the project on a local server (XAMPP/LAMP).
 
 ![Screenshot 2025-03-11 093614](https://github.com/user-attachments/assets/d839b3b1-3e00-40b7-8f62-544759c67db3)
 
-![Screenshot 2025-03-11 093434](https://github.com/user-attachments/assets/fee8ddfc-16f8-4e5f-a985-e920f6e5e126)
+![Screenshot 2025-03-11 093647](https://github.com/user-attachments/assets/0e401a36-795c-4721-9c53-cd4da74d6725)
+
+![Screenshot 2025-03-11 093635](https://github.com/user-attachments/assets/445f84b3-586e-492a-acf8-6f6550725bc8)
 
 ![Screenshot 2025-03-11 093426](https://github.com/user-attachments/assets/6d3176db-785b-4cb2-a81f-7b964efdbc77)
 
@@ -62,9 +64,7 @@ Run the project on a local server (XAMPP/LAMP).
 
 ![Screenshot 2025-03-11 093653](https://github.com/user-attachments/assets/9e9a106a-c94a-4dbb-8242-5290349066f8)
 
-![Screenshot 2025-03-11 093647](https://github.com/user-attachments/assets/0e401a36-795c-4721-9c53-cd4da74d6725)
 
-![Screenshot 2025-03-11 093635](https://github.com/user-attachments/assets/445f84b3-586e-492a-acf8-6f6550725bc8)
 
 
 
